@@ -1,0 +1,11 @@
+ID,EBXID,CODE,NAME_EN,NAME_FR,NAME_ES,NAME_AR,NAME_ZH,NAME_RU
+00000001,40002,1,"Fish, fresh, chilled or frozen","Poissons frais, réfrigérés ou congelés","Pescado fresco, refrigerado o congelado","","",""
+00000002,40003,2,"Fish, dried, salted, or smoked","Poissons séchés, salés ou fumés","Pescado seco, salado o ahumado","","",""
+00000003,40004,3,"Crustaceans & Molluscs, live, fresh, chilled, etc.","Crustacés et mollusques, vivants, frais, réfrigérés, etc.","Crustáceos y moluscos, vivos, frescos, refrigerados, etc.","","",""
+00000004,40005,4,"Fish, prepared or preserved",Préparations et conserves de poisson,Preparaciones y conservas de pescado,"","",""
+00000005,40006,5,"Crustaceans and molluscs, prepared or preserved",Préparations et conserves de custacés et mollusques,Preparaciones y conservas de crustáceos y moluscos,"","",""
+00000006,40007,6,Fish oils,Huiles de poisson,Aceites de pescado,"","",""
+00000007,40008,7,Fishmeals,Farines de poisson,Harinas de pescado,"","",""
+00000008,40010,9,Aquatic plants,Plantes aquatiques,Plantas acuáticas,"","",""
+00000009,40012,8,"Sponges, corals, shells, and pearls","Éponges, coral, coquillage, et perle","Esponjas, coral, conchas, y perlas","","",""
+00000010,40013,A,Inedible,Non comestible,Incomestible,"","",""
