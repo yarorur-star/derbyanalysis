@@ -18,7 +18,7 @@ create table FISHSTAT.REF_COMMODITY
 );
 
 
-- REF_COMMODITY_MAJOR2 10 основных групп товаров (FAO major group)
+-- REF_COMMODITY_MAJOR2 10 основных групп товаров (FAO major group)
 create table FISHSTAT.REF_COMMODITY_MAJOR2
 (
     ID      VARCHAR(20) not null
